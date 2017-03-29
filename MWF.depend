@@ -1,0 +1,273 @@
+# depslib dependency file v1.0
+1361106751 source:c:\opengl\howto make windows c++\mwf -simplified\mwf\main.cpp
+	<iostream>
+	"wContext.h"
+
+1361107360 c:\opengl\howto make windows c++\mwf -simplified\mwf\wcontext.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
+1361107368 source:c:\opengl\howto make windows c++\mwf -simplified\mwf\wcontext.cpp
+	<windows.h>
+	<iostream>
+	"wContext.h"
+
+1361096200 c:\opengl\howto make windows c++\mwf -simplified\mwf\glcontext.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
+1361114709 source:c:\opengl\addison wesly opengl practise\book solns\mwf\mwf\wcontext.cpp
+	<windows.h>
+	<iostream>
+	"wContext.h"
+
+1361114090 c:\opengl\addison wesly opengl practise\book solns\mwf\mwf\wcontext.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
+1361114904 source:c:\opengl\addison wesly opengl practise\book solns\mwf\mwf\main.cpp
+	<iostream>
+	"wContext.h"
+	<cmath>
+	<gl/glut.h>
+
+1361268899 source:e:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\main.cpp
+	<iostream>
+	"wContext.h"
+	<cmath>
+	<gl/glut.h>
+	"glExamples.h"
+
+1361279700 e:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\wcontext.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
+1361279700 source:e:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\wcontext.cpp
+	<windows.h>
+	<iostream>
+	"wContext.h"
+
+1361279700 source:h:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\wcontext.cpp
+	<windows.h>
+	<iostream>
+	"wContext.h"
+
+1361279700 h:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\wcontext.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
+1361301574 source:h:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\glexamples.cpp
+	<iostream>
+	<cmath>
+	<gl/glut.h>
+	<stdio.h>
+	<windows.h>
+	"glExamples.h"
+	"glDrawPrimitives.h"
+
+1361301214 source:h:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\main.cpp
+	<iostream>
+	"wContext.h"
+	<cmath>
+	<gl/glut.h>
+	"glExamples.h"
+
+1361301185 h:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\glexamples.h
+
+1361225896 source:e:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\glexamples.cpp
+	<iostream>
+	<cmath>
+	<gl/glut.h>
+	<stdio.h>
+	<windows.h>
+	"glExamples.h"
+
+1361219683 e:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\glexamples.h
+
+1361300418 source:h:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\gldrawprimitives.cpp
+	<iostream>
+	"glDrawPrimitives.h"
+
+1361300402 h:\personal\mycode\opengl\addison wesly opengl practise\book solns\mwf\mwf-varsity\gldrawprimitives.h
+	<gl/glut.h>
+
+1361300420 source:c:\users\mike\desktop\parallel project\mwf\mwf\gldrawprimitives.cpp
+	<iostream>
+	"glDrawPrimitives.h"
+
+1361300404 c:\users\mike\desktop\parallel project\mwf\mwf\gldrawprimitives.h
+	<gl/glut.h>
+
+1361301576 source:c:\users\mike\desktop\parallel project\mwf\mwf\glexamples.cpp
+	<iostream>
+	<cmath>
+	<gl/glut.h>
+	<stdio.h>
+	<windows.h>
+	"glExamples.h"
+	"glDrawPrimitives.h"
+
+1361301186 c:\users\mike\desktop\parallel project\mwf\mwf\glexamples.h
+
+1361301582 source:c:\users\mike\desktop\parallel project\mwf\mwf\main.cpp
+	<iostream>
+	"wContext.h"
+	<cmath>
+	<gl/glut.h>
+	"glExamples.h"
+
+1361279702 c:\users\mike\desktop\parallel project\mwf\mwf\wcontext.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
+1361279702 source:c:\users\mike\desktop\parallel project\mwf\mwf\wcontext.cpp
+	<windows.h>
+	<iostream>
+	"wContext.h"
+
+1361897754 source:c:\users\mike\desktop\parallel project\mwf\mwf\dragon.cpp
+	"dragon.h"
+	<iostream>
+
+1400514994 c:\users\mike\desktop\parallel project\mwf\mwf\dragon.h
+	"glDrawPrimitives.h"
+	<String.h>
+
+1400535694 source:c:\users\mike\desktop\parallel project\parallel framework\mwf\wcontext.cpp
+	<windows.h>
+	<iostream>
+	"wContext.h"
+
+1400535026 c:\users\mike\desktop\parallel project\parallel framework\mwf\wcontext.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
+1400591310 source:c:\users\mike\desktop\parallel project\parallel framework\mwf\main.cpp
+	<iostream>
+	"wContext.h"
+	<cmath>
+	<gl/glut.h>
+	"Mandlebrot.h"
+	<cstdlib>
+
+1400578941 c:\users\mike\desktop\parallel project\parallel framework\mwf\mandlebrot.h
+
+1400587944 source:c:\users\mike\desktop\parallel project\parallel framework\mwf\mandlebrot.cpp
+	<iostream>
+	<cmath>
+	<GL/gl.h>
+	<GL/glu.h>
+	<gl/glut.h>
+	<stdio.h>
+	<windows.h>
+	"Mandlebrot.h"
+	"glext.h"
+	<time.h>
+	<omp.h>
+	<xmmintrin.h>
+
+1276638966 c:\users\mike\desktop\parallel project\parallel framework\mwf\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1400762167 source:d:\dropbox\dropbox\honours\semester 1\parallel\practical project\parallel code\parallel project\parallel framework\mwf\main.cpp
+	<iostream>
+	"wContext.h"
+	<cmath>
+	<gl/glut.h>
+	"Mandlebrot.h"
+	<cstdlib>
+
+1400535026 d:\dropbox\dropbox\honours\semester 1\parallel\practical project\parallel code\parallel project\parallel framework\mwf\wcontext.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
+1400764083 d:\dropbox\dropbox\honours\semester 1\parallel\practical project\parallel code\parallel project\parallel framework\mwf\mandlebrot.h
+
+1400535694 source:d:\dropbox\dropbox\honours\semester 1\parallel\practical project\parallel code\parallel project\parallel framework\mwf\wcontext.cpp
+	<windows.h>
+	<iostream>
+	"wContext.h"
+
+1400787691 source:d:\dropbox\dropbox\honours\semester 1\parallel\practical project\parallel code\parallel project\parallel framework\mwf\mandlebrot.cpp
+	<iostream>
+	<cmath>
+	<GL/gl.h>
+	<GL/glu.h>
+	<gl/glut.h>
+	<stdio.h>
+	<windows.h>
+	"Mandlebrot.h"
+	"glext.h"
+	<time.h>
+	<omp.h>
+	<xmmintrin.h>
+
+1276638966 d:\dropbox\dropbox\honours\semester 1\parallel\practical project\parallel code\parallel project\parallel framework\mwf\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
+1400762168 source:c:\users\sloox\desktop\parallel\parallel code\parallel project\parallel framework\mwf\main.cpp
+	<iostream>
+	"wContext.h"
+	<cmath>
+	<gl/glut.h>
+	"Mandlebrot.h"
+	<cstdlib>
+
+1400535026 c:\users\sloox\desktop\parallel\parallel code\parallel project\parallel framework\mwf\wcontext.h
+	<windows.h>
+	<gl/gl.h>
+	<gl/glu.h>
+
+1400764084 c:\users\sloox\desktop\parallel\parallel code\parallel project\parallel framework\mwf\mandlebrot.h
+
+1400535694 source:c:\users\sloox\desktop\parallel\parallel code\parallel project\parallel framework\mwf\wcontext.cpp
+	<windows.h>
+	<iostream>
+	"wContext.h"
+
+1400787692 source:c:\users\sloox\desktop\parallel\parallel code\parallel project\parallel framework\mwf\mandlebrot.cpp
+	<iostream>
+	<cmath>
+	<GL/gl.h>
+	<GL/glu.h>
+	<gl/glut.h>
+	<stdio.h>
+	<windows.h>
+	"Mandlebrot.h"
+	"glext.h"
+	<time.h>
+	<omp.h>
+	<xmmintrin.h>
+
+1276638966 c:\users\sloox\desktop\parallel\parallel code\parallel project\parallel framework\mwf\glext.h
+	<windows.h>
+	<stddef.h>
+	<inttypes.h>
+	<inttypes.h>
+	<inttypes.h>
+	<stdint.h>
+	<stdint.h>
+	<inttypes.h>
+
